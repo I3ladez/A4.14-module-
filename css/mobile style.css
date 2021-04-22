@@ -1,0 +1,144 @@
+@media only screen and (max-device-width: 480px) {
+	header {
+	width: auto;
+	padding-bottom: 2px;
+	margin: 0px;
+}
+.option li {
+	height: 58px;
+}
+.box-title{
+	width: 375px;
+}
+.title {
+	display: flex;
+	width: 365px;
+	font-size: 44px;
+
+}
+.text { 
+	padding-left: 5px;
+	width: 365px;
+}
+.box-intro { 
+	/*align-items: flex-start;*/
+	flex-wrap: nowrap;
+	padding-top: 30px;
+}
+.img {
+	margin-top: 20px;
+}
+body > header > div > div.img > a > img:nth-child(1){
+	width: 355px !important;
+	padding-left: 5px;
+}
+.box-todo {
+	padding-top: 12px;
+}
+.left-todo h1 {
+	font-size: 30px;
+}
+.left-todo p{
+	font-size: 15px;
+	padding: 5px;
+
+}
+.pc{
+	width: 169px;
+    height: 151px;
+}
+.right-todo{
+	justify-content: center;
+}
+.line {
+	margin-top: 16px;
+	width: 367px;
+
+}
+.prod{
+	padding-top: 0px;
+}
+.prod h1{
+	font-size: 39px;
+}
+.prod p{
+	width: 320px;
+	margin-top: -16px;
+}
+.prod hr{
+	margin-top: 14px;
+}
+.prodmenu{
+	margin-top: 24px;
+}
+.prodwrap{
+	padding-top: 42px;
+}
+.meet p{
+	width: 375px;
+	font-size: 15px;
+}
+.meet{
+	padding-top: 41px;
+}
+.team{
+	padding-top: 39px;
+	padding-bottom: 36px;
+}
+.photo{
+	height: 390px;
+}
+.slide{
+	width: 177px;
+	
+}
+.photo2 {
+	width: 100%;
+}
+.tname{
+	padding-left: 5px;
+	max-width: 430px;
+}
+.tname p{
+	width: 375px;
+}
+.black{
+	padding-top: 32px;
+}
+.black h1 {
+	font-size: 38px;
+
+}
+.black p{
+	width: 375px;
+}
+.inp{
+	width: 320px;
+}
+.touch p{
+	padding-top: 15px;
+	width: 320px;
+}
+.touch h1{
+	padding-top: 44px;
+}
+.touch hr{
+	margin-top: 31px;
+}
+.tcbot{
+	padding-top: 35px;
+}
+.msg{
+	width: 320px !important;
+	margin-top: 22px;
+}
+.send{
+	margin-top: 24px;
+}
+.bot p{
+	font-size: 14px;
+}
+.tright p{
+	padding-top: 0px;
+	font-size: 13px;
+}
